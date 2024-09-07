@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">submissionfinal</string>
+    <string name="cat_lovers">Cat Lovers</string>
+    <string name="description">deskripsi</string>
+    <string name="cat_name">nama kucing</string>
+    <string name="about" />
+    <string name="profile_image" />
+    <string name="januwaputra29_gmail_com">januwaputra29@gmail.com</string>
+    <string name="januwa_putra_wiastopo">Januwa Putra Wiastopo</string>
+
+    <string-array name="data_name">
+        <item>Kucing Birman</item>
+        <item>Kucing Maine Coon</item>
+        <item>Kucing Siam</item>
+        <item>Kucing Sphynx</item>
+        <item>Kucing Abyssinians</item>
+        <item>Kucing Scottish Fold</item>
+        <item>Kucing Persia</item>
+        <item>Kucing Bengal</item>
+        <item>Kucing Exotic Shorthair</item>
+        <item>Kucing Ragdoll</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kucing ras birman ini jadi anabul kesayangannya Karl Lagerfeld, seorang penata busana asal Jerman. Saking terkenalnya, bahkan Jared Leto ikut memakai kostum kucing birman di acara Met Gala 2023. Menarik, bukan? Selain imut, kucing birman punya karakter yang ramah, penyayang, santai, lembut, dan selalu ingin tahu. Matanya yang berwarna biru muda juga tampak unik dan menarik Biasanya, kucing birman punya bobot mencapai 6 kg. Jadi, kamu harus mempersiapkan tempat tidur yang luas kalau mau memeliharanya.</item>
+        <item>Kamu juga bisa nih memilih kucing maine coon sebagai peliharaan. Soalnya, karakter kucing ini mudah dilatih, bisa bersosialisasi, ramah, dan suka bermain Selain itu, kucing maine coonpunya ukuran tubuh cukup besar. Jadi, kamu harus memberikannya makanan basah dan kering yang mengandung protein tinggi biar kebutuhan nutrisinya terpenuhi, seperti berikut ini.</item>
+        <item>Kucing siam adalah jenis kucing domestik yang berasal dari Thailand. Karakternya cukup unik nih karena mereka punya perpaduan bulu berwarna putih pucat dan kehitaman di telinga, wajah, kaki, dan ekor. Jenis peliharaan satu ini cocok dengan kamu yang suka berinteraksi karena mereka penuh kasih sayang dan suka bersosialisasi.</item>
+        <item>Jika kamu malas membersihkan bulu kucing yang menyebar di area rumah, maka bisa memelihara ras sphynx karena tidak memiliki bulu. Namun, harga kucing ini cukup mahal karena mencapai Rp45 jutaan. Cara perawatannya juga unik.  Kamu harus rutin memandikannya seminggu sekali biar kebersihan kulitnya terjaga. Kemudian, berikan makanan yang mengandung daging atau ikan supaya tubuh mereka tetap fit.</item>
+        <item>Abyssinians termasuk jenis kucing yang tidak membutuhkan perawatan khusus karena bulunya pendek. Mereka punya sifat yang aktif, energik, cerdas, dan penyayang. Untuk itu, kamu yang mau memelihara kucing satu ini harus meluangkan banyak waktu buat mengajaknya bermain. Selain itu, kamu juga bisa menyediakan mainan kucing khusus biar mereka tidak mudah bosan, seperti berikut ini.</item>
+        <item>Nah, kalau scottish fold ini jenis kucing yang dipelihara oleh Taylor Swift dan sempat ia pamerkan di media sosialnya. Penyanyi yang akrab disapa Tay ini punya dua kucing scottish fold beranama Olivia Benson dan Meredith Grey. Sangat menggemaskan, ya? Bukan sembarang anabul, kucing peliharaan Taylor Swift ini terkenal sebagai paling kaya karena punya aset bersih mencapai Rp1,5 triliun, lho! Bentuk tubuhnya juga cukup berbeda dari kucing lain, yaitu telinga pendek yang terlipat dan bola mata besar. Kucing satu ini tidak takut dengan suara keras, sehingga cocok buat tinggal di kota besar. Namun, kamu harus menyediakan ruangan dengan AC karena mereka tidak tahan panas.</item>
+        <item>Kalau dibandingkan dengan jenis lain, kucing persia masih cukup terjangkau karena harganya mulai dari Rp900 ribuan. Umur kucing berbulu panjang ini bisa mencapai 12-18 tahun, lho. Biar mereka panjang umur, pastikan kamu rutin melakukan pengecekan ke dokter hewan, ya. Selain itu, hindari melepaskannya di luar rumah. Soalnya, bila mereka bersentuhan dengan kucing liar, maka bisa meningkatkan risiko terkena kutu dan penyakit.</item>
+        <item>Dari tampilannya, kucing bengal punya motif bulu yang cantik dan unik, yaitu garis kehitaman di seluruh tubuhnya, menyerupai macan tutul. Karena kelangkaannya tersebut, harga kucing bengal ini mencapai ratusan juta, lho! Fantastis, bukan?</item>
+        <item>Jenis kucing lainnya adalah exotic shorthair yang menyerupai persia, tetapi bulunya lebih pendek dengan wajah kecil. Harga di pasarannya mulai dari Rp2 jutaan. Kalau masih anak-anak, kucing ini suka bermain dan berlarian sepanjang hari. Namun, semakin tua umurnya, kucing exotic shorthair punya kepribadian yang jauh lebih santai dan suka bermalas-malasan.</item>
+        <item>Jika dilihat sekilas, ragdoll memang terlihat menyerupai birman. Perbedaannya yaitu bagian kehitamannya hanya terletak di area wajah. Taylor Swift juga memelihara kucing Ragdoll, lho! Soalnya, karakter anabul satu ini sangat lembut, cerdas, dan menyenangkan. Bahkan, mereka bisa hidup sampai umur 20 tahun jika perawatannya tepat. Wah, sepuluh jenis kucing di atas menggemaskan sekali, bukan? Jadi, kamu tertarik buat memelihara yang mana, nih?</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/birman</item>
+        <item>@drawable/mainecoon</item>
+        <item>@drawable/siam</item>
+        <item>@drawable/sphynx</item>
+        <item>@drawable/abyssinians</item>
+        <item>@drawable/scottishfold</item>
+        <item>@drawable/persia</item>
+        <item>@drawable/bengal</item>
+        <item>@drawable/exoticshorthair</item>
+        <item>@drawable/ragdoll</item>
+    </integer-array>
+</resources>
